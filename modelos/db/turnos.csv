@@ -1,0 +1,5 @@
+id_medico,id_paciente,hora_turno,fecha_solicitud
+1,2,11:30,12/06/1996
+2,7,12:30,12/06/1996
+3,8,13:30,12/06/1996
+
